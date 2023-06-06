@@ -18,7 +18,15 @@
         "README.md": true,
         "TODO.txt": true,
         "wiki": true,
-        "PSAppDeployToolkit.pdf": true
+        "**/PSAppDeployToolkit.pdf": true,
+        "**/AppDeployToolkitExtensions.ps1": true,
+        "**/AppDeployToolkitMain.cs": true,
+        "**/AppDeployToolkitBanner.png": true,
+        "**/AppDeployToolkitHelp.ps1": true,
+        "**/AppDeployToolkitExtensions.ps1": true,
+        "**/AppDeployToolkitLogo.png": true,
+        "**/AppDeployToolkitLogo.ico": true,
+        "**/AppDeployToolkitMain.ps1": true,
     },
     "files.defaultLanguage": "powershell"
 
