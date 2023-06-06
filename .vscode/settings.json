@@ -1,0 +1,25 @@
+{
+    "files.exclude": {
+        ".editconfig": true,
+        ".editorconfig": true,
+        ".gitattributes": true,
+        ".github": true,
+        "**/CHANGELOG.txt": true,
+        "**/Deploy-Application.exe": true,
+        "**/Deploy-Application.exe.config": true,
+        "**/docs": true,
+        "**/material": true,
+        "**/Sources": true,
+        "**/Testing": true,
+        "AppDeployToolkitLogo.png": true,
+        "COPYING.Lesser": true,
+        "LICENSE": true,
+        "mkdocs.yml": true,
+        "README.md": true,
+        "TODO.txt": true,
+        "wiki": true,
+        "PSAppDeployToolkit.pdf": true
+    },
+    "files.defaultLanguage": "powershell"
+
+}
